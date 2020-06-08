@@ -42,32 +42,34 @@ Pour réaliser une liste à puce, on peut utiliser des `*` ou des `-`.
 
 Pour faire une liste imbriquée il suffit de laisser un espace devant la ligne souhaitée.
 
->- Par
->- exemple
->    - comme
->    - ceci
->- !
-
+```- Par
+- exemple
+    - comme
+    - ceci
+- !
+```
 Donne:
 
 - Par
 - exemple
     - comme
     - ceci
+- !
 
 ### Liste ordonnée
 
-Pour la liste ordonnée, c'est la meme syntaxe que pour la liste à puce sauf qu'on remplace les symboles par des numéros suivis d'un point.
+Pour la liste ordonnée, c'est la meme syntaxe que pour la liste à puce sauf qu'on remplace les symboles par `1.`.
 
->1. Par
->1. exemple
->    1. comme
->    1. ceci
->1. !
-
+```1. Par
+1. exemple
+    1. comme
+    1. ceci
+1. !
+```
 Donne:
 
 1. Par
 1. exemple
     1. comme
     1. ceci
+1. !
