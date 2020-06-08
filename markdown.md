@@ -28,7 +28,7 @@ if (isAwesome){
 
 ### Liens
 
-GitHub gère de nombreux extras en markdown qui permettent référencer et créer des liens vers d'autres personnes. Pour envoyer un comentaire à une persone en particulier, il suffit d'ajouter le symbole `@` juste devant son nom : Salut @LinardJeremy, j'adore ton t-shirt !  
+GitHub gère de nombreux extras en markdown qui permettent référencer et créer des liens vers d'autres personnes. Pour envoyer un comentaire à une persone en particulier, il suffit d'ajouter le symbole `@` juste devant son nom : Salut @fwauters, j'adore ton t-shirt !  
 
 ### Checklists
 
