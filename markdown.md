@@ -1,7 +1,7 @@
 ![](https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png)
 
 
-* Pour accéder aux différentes parties du projet veuillez cliquez sur les liens suivant
+* Pour accéder aux différentes parties du projet veuillez cliquer sur les liens suivant
     * Pour lire le README cliquez [ici](README.md)
     * Pour lire les consignes de l'exercice cliquez [ici](consignes.md)
 
