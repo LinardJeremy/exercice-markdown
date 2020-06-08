@@ -43,9 +43,13 @@ Les URL seront automatiquement converti en lien cliquable.
 
 ## Barré:
 
-Utiliser les tildes (racourci ALT 126) por barrerr le texte.
+Utilisez les tildes (racourci ALT 126) pour barrerr le texte.
 
 *Ex*:
+
+Tilde Tilde Mon texte apparaît barré Tilde Tilde
+
+*Donnera:*
 
 ~~Mon texte apparaît barré~~
 
