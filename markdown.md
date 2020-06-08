@@ -8,7 +8,7 @@ En Markdown on peut utiliser jusqu'à 6 niveaux de titres avec des `#`:
 
 `### Titre` sera un titre de niveau 3.
 
-etc. jusque `###### Titre` qui sera un titre de niveau 6.
+Etc. jusque `###### Titre` qui sera un titre de niveau 6.
 
 ## Le formatage de texte
 
@@ -73,6 +73,7 @@ Donne:
     1. comme
     1. ceci
 1. !
+
 ## Code
 
 Il y a plusieurs manières d'afficher du code en markdown.  
@@ -125,78 +126,63 @@ Code      | Emoji
 `:hugs:`  | :hugs:
 `:mask:`  | :mask:
 
-# insertion d’une image statique :
-Les images s'insèrent en mettant un point d'exclamation devant les premiers crochets. Le texte entre crochets est le texte alternatif de l'image suivi du lien de l'image entre parenthèse exemple :
+## Insertion d’une image statique
+
+Les images s'insèrent en mettant un point d'exclamation `!` devant les premiers crochets. Le texte entre crochets `[``]` est le texte alternatif de l'image suivi du lien de l'image entre parenthèse `(``)` exemple :
 
 > `![Zozor](lien/url)`
 
-# insertion d’une image animée :
-C'est pareil que pour inséré une image statique  avec une seul différence, le lien de l'image doit finir en .gif exemple:
+## Insertion d’une image animée
+
+C'est pareil que pour insérer une image statique avec une seul différence, le lien de l'image doit finir en `.gif` exemple:
 
 > `![Chat](lien/url)`
 
-Citations:
-Si vous souhaitez citer quelqu'un, utilisez le caractère ">" avant la ligne et ce pour chaque ligne de texte à citer exemple:
+## Citations
+
+Si vous souhaitez citer quelqu'un, utilisez le caractère `>` avant la ligne et ce pour chaque ligne de texte à citer.  Exemple :
+
 > `> Ceci est un texte cité.`
 
-## Les tables:
+## Les tables
 
-Pour la création des tableaux utiliser **-** pout les lignes horisontales, et un tuyau **|** pour les lignes verticales (*raccourci clavier:ALT 124*)
+Pour la création des tableaux, utiliser **-** pout les lignes horisontales, et un tuyau **|** pour les lignes verticales (*raccourci clavier:ALT 124*)
 
-*Les étapes a suivre pour obtenir le tableau ci-bas*:
+### Les étapes a suivre pour obtenir le tableau ci-bas
 
-1. Ecrivez entête.
+1. Ecrivez en-tête.
 2. Placez un tuyau.
-3. Ecrivez votre deuxieme entête.
+3. Ecrivez votre deuxième en-tête.
 4. Sautez la ligne.
 5. Divisez par les tirets.  
 6. Sautez la ligne.
 7. Ecrivez le contenu de votre texte1.
 8. Placez un tuyau.  
-9. Contenu de votre text2.  
+9. Contenu de votre texte2.  
 10. Saut a la ligne.
-11. Contenu de text3.  
+11. Contenu de texte3.  
 12. Placez un tuyeau.  
 13. contenu texte4.  
 
-(*Pensez a bien alligner vos tuyaux ensemble)*
+*(Pensez a bien alligner vos tuyaux ensemble)*
 
-Entête          |    Entête2
-----------------|---------------
-Contenu text1   |Contenu text2
-Contenu text3   |Contenu text4
+En-tête           |    En-tête2
+------------------|---------------
+Contenu texte1    |Contenu texte2
+Contenu texte3    |Contenu texte4
 
----------------------------------------------------------------------------
+## Liens automatiques
 
+Les URL seront automatiquement convertis en lien cliquable.
 
-## Liens automatiques:
-
-Les URL seront automatiquement converti en lien cliquable.
-
-*Ex*:
+*Ex:*
 
 (https://twitter.com/explore)
 
----------------------------------------------------------------------------
+## Mentions
 
-## Barré:
+Pour mentionner une personne, précéder son nom d'utilisateur de `@`.
 
-Utilisez les tildes (racourci ALT 126) pour barrerr le texte.
-
-*Ex*:
-
-TildeTildeMon texte apparaît barréTildeTilde
-
-*Donnera:*
-
-~~Mon texte apparaît barré~~
-
----------------------------------------------------------------------------
-
-## mentions:
-
-Pour mentionner une personne précéder son nom d'utilisateur d'une @.
-
-*Ex*:
+*Ex:*
 
 Salut @88aleksandra88
