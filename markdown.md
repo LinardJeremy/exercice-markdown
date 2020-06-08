@@ -124,48 +124,37 @@ Code      | Emoji
 `:yum:`   | :yum:
 `:hugs:`  | :hugs:
 `:mask:`  | :mask:
+
 # insertion d’une image statique :
 Les images s'insèrent en mettant un point d'exclamation devant les premiers crochets. Le texte entre crochets est le texte alternatif de l'image suivi du lien de l'image entre parenthèse exemple :
+
 > `![Zozor](lien/url)`
 
 # insertion d’une image animée :
 C'est pareil que pour inséré une image statique  avec une seul différence, le lien de l'image doit finir en .gif exemple:
+
 > `![Chat](lien/url)`
-
-# Les titres et sous-titres:
-pour rédiger un titre avec Markdown, on utilise le dièse. On le sépare du texte avec une espace. Pour créer des sous-titres de hiérarchie inférieure, et donc rédigés en plus petits, il suffit d’insérer des dièses supplémentaires (jusqu'à 6) exemple:
-> `# Titre de niveau 1`
-
-> `## Titre de niveau 2`
-
-> `### Titre de niveau 3`
-
-> `#### Titre de niveau 4`
-
-> `##### Titre de niveau 5`
-
-> `###### Titre de niveau 6`
 
 Citations:
 Si vous souhaitez citer quelqu'un, utilisez le caractère ">" avant la ligne et ce pour chaque ligne de texte à citer exemple:
 > `> Ceci est un texte cité.`
 
-## Les tables: 
+## Les tables:
 
 Pour la création des tableaux utiliser **-** pout les lignes horisontales, et un tuyau **|** pour les lignes verticales (*raccourci clavier:ALT 124*)
 
 *Les étapes a suivre pour obtenir le tableau ci-bas*:
 
-1. Ecrivez entête. 
-2. Placez un tuyau. 
-3. Ecrivez votre deuxieme entête. 
-4. Sautez la ligne. 
+1. Ecrivez entête.
+2. Placez un tuyau.
+3. Ecrivez votre deuxieme entête.
+4. Sautez la ligne.
 5. Divisez par les tirets.  
-6. Sautez la ligne. 
-7. Ecrivez le contenu de votre texte1. 
+6. Sautez la ligne.
+7. Ecrivez le contenu de votre texte1.
 8. Placez un tuyau.  
 9. Contenu de votre text2.  
-10. Saut a la ligne. 
+10. Saut a la ligne.
 11. Contenu de text3.  
 12. Placez un tuyeau.  
 13. contenu texte4.  
@@ -210,4 +199,4 @@ Pour mentionner une personne précéder son nom d'utilisateur d'une @.
 
 *Ex*:
 
-Salut @88aleksandra88 
+Salut @88aleksandra88
