@@ -27,6 +27,8 @@ Utiliser les tildes (racourci ALT 126) por barrerr le texte.
 
 Pour mentionner une personne preceder son nom d'utilisateur d'une @.
 
+###EX: Salut @LinardJeremy 
+
 
 
 
