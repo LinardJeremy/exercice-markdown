@@ -21,6 +21,8 @@ Pour la création des tableaux utiliser **-** pout les lignes horisontales, et u
 12. Placez un tuyeau.  
 13. contenu texte4.  
 
+(*Pensez a bien alligner vos tuyaux ensemble)*
+
 Entête          |    Entête2
 ----------------|---------------
 Contenu text1   |Contenu text2
