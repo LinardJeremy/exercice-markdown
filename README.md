@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------
 ## Les tables: 
 
-Pour la création des tableaux utiliser **-** et un tuyau **|**(*raccourci clavier:ALT 124*)
+Pour la création des tableaux utiliser **-** et un tuyau **|** (*raccourci clavier:ALT 124*)
 
 *Ex*:
 
