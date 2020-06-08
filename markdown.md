@@ -28,13 +28,15 @@ if (isAwesome){
 
 ### Liens
 
-GitHub gère de nombreux extras en markdown qui permettent référencer et créer des liens vers d'autres personnes. Pour envoyer un comentaire à une persone en particulier, il suffit d'ajouter le symbole @ juste devant son nom : Salut @epictete, j'adore ton t-shirt !  
+GitHub gère de nombreux extras en markdown qui permettent référencer et créer des liens vers d'autres personnes. Pour envoyer un comentaire à une persone en particulier, il suffit d'ajouter le symbole `@` juste devant son nom : Salut @LinardJeremy, j'adore ton t-shirt !  
 
 ### Checklists
 
-Mais il faut admettre que les checklists sont vraiment cool :
+Il faut reconnaître que les checklists sont vraiment cool :
 - [x] Elément coché
 - [ ] Elément non coché
 
 ### Emojis
 
+Pour afficher des emojis, il suffit d'écrire la référence de celui qu'on veut utiliser, entourée par le symbole ":"  
+Par exemple : `:smile:` = :smile:
