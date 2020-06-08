@@ -38,5 +38,9 @@ Il faut reconnaître que les checklists sont vraiment cool :
 
 ### Emojis
 
-Pour afficher des emojis, il suffit d'écrire la référence de celui qu'on veut utiliser, entourée par le symbole ":"  
-Par exemple : `:smile:` = :smile:
+Pour afficher des emojis, il suffit d'écrire la référence de celui qu'on veut utiliser, entourée par le symbole `:`   
+Voici qulques exemples :
+
+Code      | Emoji
+--------- | ---------
+`:smile:` | :smile:
