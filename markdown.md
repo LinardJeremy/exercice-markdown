@@ -198,4 +198,4 @@ Pour mentionner une personne, précéder son nom d'utilisateur de `@`.
 
 *Ex:*
 
-Salut @88aleksandra88
+Salut [@88aleksandra88](https://github.com/88aleksandra88)
