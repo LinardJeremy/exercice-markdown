@@ -128,15 +128,19 @@ Code      | Emoji
 
 ## Insertion d’une image statique
 
-Les images s'insèrent en mettant un point d'exclamation `!` devant les premiers crochets. Le texte entre crochets `[``]` est le texte alternatif de l'image suivi du lien de l'image entre parenthèse `(``)` exemple :
+Les images s'insèrent en mettant un point d'exclamation `!` devant les premiers crochets. Le texte entre crochets `[` `]` est le texte alternatif de l'image suivi du lien de l'image entre parenthèse `(` `)` exemple :
 
 > `![Zozor](lien/url)`
+
+![LearnToCode](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg)
 
 ## Insertion d’une image animée
 
 C'est pareil que pour insérer une image statique avec une seul différence, le lien de l'image doit finir en `.gif` exemple:
 
 > `![Chat](lien/url)`
+
+![Chat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Citations
 
