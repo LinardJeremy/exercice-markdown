@@ -5,7 +5,7 @@
     * Pour lire le README cliquez [ici](README.md)
     * Pour lire le contenu du projet cliquez [ici](markdown.md)
 
-
+    ---------
 
 # Exercice MarkDown : Intelligence Collective
 

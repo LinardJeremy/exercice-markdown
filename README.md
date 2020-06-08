@@ -4,6 +4,8 @@
     * Pour lire les consignes de l'exercice cliquez [ici](consignes.md)
     * Pour lire le contenu du projet cliquez [ici](markdown.md)
 
+    ---------
+
 # Exercice-markdown :
 ## Groupe 5
 

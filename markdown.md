@@ -7,9 +7,6 @@
 
     ---------
 
-
-
-
 ## Les niveaux de titres
 
 En Markdown on peut utiliser jusqu'à 6 niveaux de titres avec des `#`:
