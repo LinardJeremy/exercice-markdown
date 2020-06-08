@@ -10,7 +10,7 @@ EX:
 Text            |    Text
 ----------------|---------------
 Contenu text    |Contenu text
-contenu text    |Contenu text
+Contenu text    |Contenu text
 
 ---------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ contenu text    |Contenu text
 
 Les URL seront automatiquement converti en lien cliquable.
 
-### EX: (https://twitter.com/explore)
+EX: (https://twitter.com/explore)
 
 ---------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Les URL seront automatiquement converti en lien cliquable.
 
 Utiliser les tildes (racourci ALT 126) por barrerr le texte.
 
-### EX: ~~Mon texte apparaît barré~~
+EX: ~~Mon texte apparaît barré~~
 
 ---------------------------------------------------------------------------
 
