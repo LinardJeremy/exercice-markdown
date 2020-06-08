@@ -4,7 +4,7 @@
 # Exercice-markdown :
 ## Groupe 5
 
-Ce répertoire Github  [(Lien)](https://github.com/LinardJeremy/exercice-markdown). Contient un projet réalisé en juin 2020 dans le cadre de la formation **BECODE**. Le projet est composé de deux fichiers **Markdown**, ceux-ci présentent le **Markdown** et sa synthaxe.
+Ce répertoire Github  [(Lien)](https://github.com/LinardJeremy/exercice-markdown). Contient un projet réalisé en juin 2020 dans le cadre de la formation **BECODE**. Le projet est composé de deux fichiers l'un présentant les consignes de l'exercice et l'autre présentant le **Markdown** et sa synthaxe.
 
 C'est un projet collaboratif, la liste des personnes ayant participé à celui-ci est la suivante :
 
