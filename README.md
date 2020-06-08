@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------
 ## Les tables: 
 
-Pour la création des tableaux utiliser **-** et un tuyau **|**(raccourci clavier:ALT 124 )
+Pour la création des tableaux utiliser **-** et un tuyau **|**(*raccourci clavier:ALT 124*)
 
-EX:
+*Ex*:
 
 Text            |    Text
 ----------------|---------------
@@ -19,7 +19,9 @@ Contenu text    |Contenu text
 
 Les URL seront automatiquement converti en lien cliquable.
 
-EX: (https://twitter.com/explore)
+*Ex*:
+
+(https://twitter.com/explore)
 
 ---------------------------------------------------------------------------
 
@@ -27,13 +29,19 @@ EX: (https://twitter.com/explore)
 
 Utiliser les tildes (racourci ALT 126) por barrerr le texte.
 
-EX: ~~Mon texte apparaît barré~~
+*Ex*:
+
+~~Mon texte apparaît barré~~
 
 ---------------------------------------------------------------------------
 
 ## mentions:
 
-Pour mentionner une personne preceder son nom d'utilisateur d'une @.
+Pour mentionner une personne précéder son nom d'utilisateur d'une @.
+
+*Ex*:
+
+Salut @88aleksandra88 
 
 ---------------------------------------------------------------------------
 
