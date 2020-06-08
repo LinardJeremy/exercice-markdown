@@ -47,7 +47,7 @@ Utilisez les tildes (racourci ALT 126) pour barrerr le texte.
 
 *Ex*:
 
-Tilde Tilde Mon texte apparaît barré Tilde Tilde
+TildeTildeMon texte apparaît barréTildeTilde
 
 *Donnera:*
 
