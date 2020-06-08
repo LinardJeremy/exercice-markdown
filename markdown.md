@@ -1,3 +1,15 @@
+![](https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png)
+
+
+* Pour accéder aux différentes parties du projet veuillez cliquez sur les liens suivant
+    * Pour lire le README cliquez [ici](README.md)
+    * Pour lire les consignes de l'exercice cliquez [ici](consignes.md)
+
+    ---------
+
+
+
+
 ## Les niveaux de titres
 
 En Markdown on peut utiliser jusqu'à 6 niveaux de titres avec des `#`:
