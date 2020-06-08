@@ -16,7 +16,7 @@ if (isAwesome){
 }
 ```
 
-Il est même possible d'avoir une mise en forme colorée du code. Pour ça il sufit de rajouter le nom de language utilisé sur la première ligne de backticks :
+Il est même possible d'avoir une coloration syntaxique du code. Pour ça il sufit de rajouter le nom de language utilisé sur la première ligne, juste après les 3 backticks :
 
 ```javascript
 if (isAwesome){
@@ -28,7 +28,7 @@ if (isAwesome){
 
 ### Liens
 
-GitHub gère de nombreux extras en markdown qui permettent référencer et créer des liens vers d'autres personnes. Pour envoyer un comentaire à une persone en particulier, il suffit d'ajouter le symbole `@` juste devant son nom : Salut @fwauters, j'adore ton t-shirt !  
+GitHub gère de nombreux extras en markdown qui permettent de référencer et créer des liens vers d'autres personnes. Pour envoyer un comentaire à une personne en particulier, il suffit d'ajouter le symbole `@` juste devant son nom : Salut @fwauters, j'adore ton t-shirt !  
 
 ### Checklists
 
@@ -38,8 +38,8 @@ Il faut reconnaître que les checklists sont vraiment cool :
 
 ### Emojis
 
-Pour afficher des emojis, il suffit d'écrire la référence de celui qu'on veut utiliser, entourée par le symbole `:`   
-Voici qulques exemples :
+Pour afficher des emojis, il suffit d'écrire la référence de celui qu'on veut utiliser, encadrée par le symbole `:`   
+Voici quelques exemples :
 
 Code      | Emoji
 --------- | ---------
@@ -48,3 +48,4 @@ Code      | Emoji
 `:joy:`   | :joy:
 `:yum:`   | :yum:
 `:hugs:`  | :hugs:
+`:mask:`  | :mask:
