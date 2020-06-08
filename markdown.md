@@ -44,3 +44,7 @@ Voici qulques exemples :
 Code      | Emoji
 --------- | ---------
 `:smile:` | :smile:
+`:wink:`  | :wink:
+`:joy:`   | :joy:
+`:yum:`   | :yum:
+`:hugs:`  | :hugs:
